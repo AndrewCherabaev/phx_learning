@@ -1,4 +1,4 @@
-#TODO
+# TODO
 
 * <input type=checkbox disabled>Instalation
     * <input type=checkbox disabled>How to install Elixir, Mix and Phoenix
