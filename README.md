@@ -5,6 +5,7 @@ I did it because I don't really like another cources. Here I'm going to describe
 
 # Index
 1. Instalation
-2. Writing first CRUD entity
-3. Auth and checking user status
-4. Plugs: Phoenix way to write middleware
+2. Replace default CSS with Bootstrap
+3. Writing first CRUD entity
+4. Auth and checking user status
+5. Plugs: Phoenix way to write middleware
