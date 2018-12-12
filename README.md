@@ -9,3 +9,4 @@ I did it because I don't really like another cources. Here I'm going to describe
 3. Writing first CRUD entity
 4. Auth and checking user status
 5. Plugs: Phoenix way to write middleware
+6. Databases: how to setup some Repo's in defferent databases
