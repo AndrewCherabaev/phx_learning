@@ -1,9 +1,9 @@
 # TODO
 
-* <input type=checkbox disabled>Instalation
-    * <input type=checkbox disabled>How to install Elixir, Mix and Phoenix
-    * <input type=checkbox disabled>How to start Phoenix project
-    * <input type=checkbox disabled>How to configure project
+* <input type=checkbox disabled checked>Instalation
+    * <input type=checkbox disabled checked>How to install Elixir, Mix and Phoenix
+    * <input type=checkbox disabled checked>How to start Phoenix project
+    * <input type=checkbox disabled checked>How to configure project
 * <input type=checkbox disabled>Replace default CSS with Bootstrap
     * <input type=checkbox disabled>Install Bootstrap
     * <input type=checkbox disabled>Apply Bootstrap CSS to app.css
